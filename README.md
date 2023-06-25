@@ -1,9 +1,9 @@
 <br />
 <p align="center">
-  <h3 align="center">Mozio: API integration assessment</h3>
+  <h1 align="center">Mozio: API integration assessment</h1>
 </p>
 
-# Table of Contents
+## Table of Contents
 
 * [Project Structure](#project-structure)
 * [How to run the application](#how-to-run-the-application)
@@ -14,7 +14,7 @@
 * [Contributing](#contributing)
 
 
-# Project Structure
+## Project Structure
 
     ├── Monzio                    
     │   ├── app                        # App's Python scripts 
